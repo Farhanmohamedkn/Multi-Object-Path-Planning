@@ -24,6 +24,8 @@ The data used for the comparison consists of IPYNB files containing implementati
 - Obstacle coverages: low, medium, and high.
 - Path plots for each algorithm on each map.
 - Computation times for each algorithm on each map.
+- Calculated the Average Pathfinding Time for Direct A* and Velocity-Based A* Algorithms Through Multiple Experiments on Randomly Generated Maps
+- Finally calculated the success rate of each algorithm on randomly generated maps
 
 ## Results
 
